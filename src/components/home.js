@@ -1,5 +1,5 @@
 import React from "react";
-import profile from 'D:/Mern/api-assess/src/utils/images/santhosh.jpg'
+import profile from '../santhosh.jpg'
 
 const Portfolio=()=>{
     return(
